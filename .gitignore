@@ -1,0 +1,5 @@
+# Ignore build stuff
+*.deb
+
+# Ignore editor stuff
+*.sw[onp]

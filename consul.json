@@ -1,0 +1,12 @@
+// 
+// Example Consul configuration file.
+// Original version: 0.5.1
+//
+{
+  "datacenter": "my-dc",
+  "data_dir": "/var/consul",
+  "log_level": "INFO",
+  "node_name": "consul",
+  "server": true,
+  "recursors": "8.8.8.8"
+}
